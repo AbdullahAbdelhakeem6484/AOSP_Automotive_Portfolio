@@ -109,22 +109,23 @@ This portfolio demonstrates comprehensive expertise in **Android Open Source Pro
 gantt
     title AOSP Automotive Portfolio Development
     dateFormat  YYYY-MM-DD
+    axisFormat  %b %d, %Y
     
     section Beginner
-    Dashboard Simulator    :2025-09-13, 14d
-    Vehicle State Monitor  :2025-09-26, 14d
+    Dashboard Simulator    :ds, 2025-09-14, 14d
+    Vehicle State Monitor  :vsm, after ds, 14d
     
     section Intermediate
-    Climate Control        :2025-10-10, 21d
-    Driver Assistance      :2025-10-31, 21d
+    Climate Control        :cc,  after vsm, 21d
+    Driver Assistance      :da,  after cc, 21d
     
     section Advanced
-    Parking Assistant      :2025-11-21, 28d
-    Infotainment System    :2025-12-19, 28d
+    Parking Assistant      :pa,  after da, 28d
+    Infotainment System    :is,  after pa, 28d
     
     section Expert
-    Fleet Management       :2026-01-16, 35d
-    Security Framework     :2026-02-20, 35d
+    Fleet Management       :fm,  after is, 35d
+    Security Framework     :sf,  after fm, 35d
 ```
 
 ## 🚀 Getting Started
