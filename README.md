@@ -112,20 +112,20 @@ gantt
     axisFormat  %b %d, %Y
     
     section Beginner
-    Dashboard Simulator    :ds, 2025-09-14, 14d
-    Vehicle State Monitor  :vsm, after ds, 14d
+    Dashboard Simulator    :ds, 2025-09-14, 2025-09-27
+    Vehicle State Monitor  :vsm, 2025-09-28, 2025-10-11
     
     section Intermediate
-    Climate Control        :cc,  after vsm, 21d
-    Driver Assistance      :da,  after cc, 21d
+    Climate Control        :cc,  2025-10-12, 2025-11-01
+    Driver Assistance      :da,  2025-11-02, 2025-11-22
     
     section Advanced
-    Parking Assistant      :pa,  after da, 28d
-    Infotainment System    :is,  after pa, 28d
+    Parking Assistant      :pa,  2025-11-23, 2025-12-20
+    Infotainment System    :is,  2025-12-21, 2026-01-17
     
     section Expert
-    Fleet Management       :fm,  after is, 35d
-    Security Framework     :sf,  after fm, 35d
+    Fleet Management       :fm,  2026-01-18, 2026-02-21
+    Security Framework     :sf,  2026-02-22, 2026-03-28
 ```
 
 ## 🚀 Getting Started
