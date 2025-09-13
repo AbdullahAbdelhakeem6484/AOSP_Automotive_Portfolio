@@ -178,7 +178,7 @@ This portfolio is designed for collaborative development between Abdullah Abdelh
 **Abdullah Abdelhakeem** (Lead Developer)
 - 📧 Email: abdullah.abdelhakeem657@gmail.com
 - 🐙 GitHub: [@AbdullahAbdelhakeem6484](https://github.com/AbdullahAbdelhakeem6484)
-- 💼 LinkedIn: [Connect for automotive projects](https://linkedin.com/in/abdullah-abdelhakeem)
+- 💼 LinkedIn: [Connect for automotive projects](https://www.linkedin.com/in/abdullah-abdelhakeem-3b5338116/)
 
 **Abdelrahman Mourad** (Collaborative Developer)
 - 📧 Email: abdelrahmanmourad.am@gmail.com

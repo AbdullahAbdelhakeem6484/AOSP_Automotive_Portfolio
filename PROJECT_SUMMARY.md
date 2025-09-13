@@ -179,7 +179,7 @@ This comprehensive AOSP Automotive portfolio demonstrates progressive expertise 
 - **Name**: Abdullah Abdelhakeem
 - **Email**: abdullah.abdelhakeem657@gmail.com
 - **GitHub**: [@AbdullahAbdelhakeem6484](https://github.com/AbdullahAbdelhakeem6484)
-- **LinkedIn**: [Professional networking for automotive projects](https://linkedin.com/in/abdullah-abdelhakeem)
+- **LinkedIn**: [Professional networking for automotive projects](https://www.linkedin.com/in/abdullah-abdelhakeem-3b5338116/)
 
 ### Collaboration Opportunities
 - **Joint Development**: Partnership on automotive technology projects
